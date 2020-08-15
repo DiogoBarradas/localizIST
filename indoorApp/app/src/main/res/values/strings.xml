@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Indoor App</string>
+    <string name="principal_button">Locate Me</string>
+    <string name="secundary_button">Save Point</string>
+    <string name="scan_button">Scan APs</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="page2_principal_button">Locate Me Again</string>
+    <string name="back_button">Go Back</string>
+    <string name="delete_button">Delete DB</string>
+    <string name="sync_button">Sync</string>
+    sync_button
+
+
+</resources>
